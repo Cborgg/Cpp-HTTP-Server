@@ -4,7 +4,7 @@
   C++ HTTP-Server
 </h1>
 <h3 align="center">
-  Simple and fast HTTP-Server build on C++11
+  Simple and fast HTTP-Server build
 </h3>
 
 # Getting Started
