@@ -71,7 +71,3 @@ void set_value(std::string value);
 
 std::string to_string(void) const;
 ```
-
-# License
-
-This project is licensed under the MIT License.
